@@ -1,5 +1,5 @@
 
-							THE PROJECT DESIGNED TO COPY THE SCREEN OF A REMOTE HOST .
+		THE PROJECT DESIGNED TO COPY THE SCREEN OF A REMOTE HOST .
 
 	The project designed to copy the screen of a remote host . This part of project is a code of program in C++, which is embedded in the system process explore.exe on the remote host and makes a copy of screen . The pass of module on the remote computer can be realized , for example, by WMI , if an user has network administrator rights . The screen returns as a bmp file in the folder C:\TEMP. The program was tested on Windows XP and Windows 7. 
 	Creating this application was preceded by some event. In Belarus the 8th of March is a holiday - international women's day. On this day men give women gifts and flowers. At work colleagues-women men congratulate the day before. A couple of days before the holiday, my boss asked me to make women surprise. In the morning, when women come to work and will turn on  computers, instead of their usual wallpaper desktop  screen should appear on the screen bouquet of flowers. 
